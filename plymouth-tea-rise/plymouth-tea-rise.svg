@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="368.56027mm"
+   height="250.43802mm"
+   viewBox="0 0 368.56027 250.43802"
+   version="1.1"
+   id="svg311"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="plymouth-tea-rise.svg">
+  <defs
+     id="defs305">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2667"
+       x="-0.1908"
+       width="1.3816"
+       y="-0.1908"
+       height="1.3816">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="18.009208"
+         id="feGaussianBlur2669" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2119"
+       id="linearGradient2689"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.4798478,97.195542,718.24696)"
+       x1="-975.78058"
+       y1="-1334.2269"
+       x2="-975.78058"
+       y2="-1499.9495" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2119">
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0"
+         id="stop2115" />
+      <stop
+         style="stop-color:#62aa41;stop-opacity:0.92941177"
+         offset="1"
+         id="stop2117" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2111">
+      <ellipse
+         ry="191.94942"
+         rx="363.66772"
+         cy="-1295.3237"
+         cx="-973.67902"
+         id="ellipse2113"
+         style="opacity:1;fill:#62aa41;fill-opacity:1;stroke:none;stroke-width:3.80254078;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2088"
+       x="-0.2352"
+       width="1.4704"
+       y="-0.2352"
+       height="1.4704">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="12.880618"
+         id="feGaussianBlur2090" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath577">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.96124935;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect579"
+         width="1300.1144"
+         height="553.11365"
+         x="-1526.4952"
+         y="-1833.9049" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="623.25018"
+     inkscape:cy="549.84415"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata308">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(70.131328,-25.882179)">
+    <g
+       id="g2713"
+       transform="matrix(0.21883926,0,0,0.21883926,309.9735,505.90813)">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.72078025;filter:url(#filter2667)"
+         id="circle2125"
+         cx="-894.00018"
+         cy="-1788.3069"
+         r="113.26546" />
+      <g
+         transform="translate(97.195542)"
+         id="g2107">
+        <circle
+           style="fill:#62aa41;fill-opacity:1;stroke-width:0.64623064"
+           id="circle1716"
+           cx="-991.19574"
+           cy="-1788.3069"
+           r="101.55052" />
+        <circle
+           r="93.027412"
+           cy="-1788.3069"
+           cx="-991.19574"
+           id="circle1718"
+           style="fill:#62aa41;fill-opacity:1;stroke:#ffffff;stroke-width:6.5625;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           id="g1722"
+           transform="matrix(11.064855,0,0,11.064855,73581.867,-32544.617)"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             d="m -6740.5653,2773.4142 c -1.0399,2.5626 0.3131,2.3818 0.7922,3.4942 0.8686,-1.7885 -0.1483,-2.0645 -0.7922,-3.4942 z m 4.5133,1.1866 c -0.9626,1.5279 -2.8214,1.2709 -3.2478,2.9881 -0.1102,0.4438 -0.1218,1.0186 0,1.7915 v 1.7521 c -0.8201,-2.5691 -3.4792,-2.2915 -5.7032,-4.7172 0.9318,7.5776 3.3797,4.7469 5.7032,8.2245 v 1.407 h 0.2597 v -6.571 c 1.1718,-1.1776 3.5972,-1.1514 2.9881,-4.875 z"
+             id="path1720"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2717"
+       transform="matrix(0.28222223,0,0,0.28222223,361.58744,632.10326)"
+       clip-path="url(#clipPath577)">
+      <ellipse
+         ry="219.70349"
+         rx="652.96112"
+         cy="-1277.1191"
+         cx="-872.8678"
+         id="path1818"
+         style="opacity:1;fill:url(#linearGradient2689);fill-opacity:1;stroke:none;stroke-width:5.45117664;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <circle
+         clip-path="url(#clipPath2111)"
+         transform="matrix(1.7954883,0,0,0.77345157,875.36148,-346.48878)"
+         r="65.717438"
+         cy="-1481.1616"
+         cx="-986.07849"
+         id="path1820"
+         style="opacity:0.8479996;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.54330707;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter2088)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.58833885px;line-height:1.25;font-family:BeyondControl;-inkscape-font-specification:BeyondControl;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29278424"
+       x="57.336979"
+       y="267.82773"
+       id="text1726"><tspan
+         sodipodi:role="line"
+         id="tspan1724"
+         x="57.336979"
+         y="267.82773"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.5883379px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.29278424">nikmatnya sebuah racikan</tspan></text>
+    <g
+       transform="matrix(0.28222223,0,0,0.28222223,351.9723,138.23324)"
+       id="g1740">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.09892273px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#62aa41;fill-opacity:1;stroke:none;stroke-width:2.5601902"
+         x="-1100.9453"
+         y="448.18655"
+         id="text1732"
+         transform="translate(37.5,-22.228214)"><tspan
+           sodipodi:role="line"
+           id="tspan1730"
+           x="-1100.9453"
+           y="448.18655"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.09892273px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:2.5601902">TeaLinux   S</tspan></text>
+      <circle
+         transform="matrix(-0.888328,-0.4592095,-0.4592095,0.888328,0,0)"
+         id="circle1734"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.96317148;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         cx="426.18936"
+         cy="669.16895"
+         r="24.898014" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#62aa41;stroke-width:3.54330707;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path1736"
+         sodipodi:type="arc"
+         sodipodi:cx="792.39288"
+         sodipodi:cy="-39.237476"
+         sodipodi:rx="24.898014"
+         sodipodi:ry="24.898014"
+         sodipodi:start="0"
+         sodipodi:end="4.1024773"
+         sodipodi:open="true"
+         d="m 817.2909,-39.237476 a 24.898014,24.898014 0 0 1 -19.87095,24.385235 24.898014,24.898014 0 0 1 -27.89509,-14.538171 24.898014,24.898014 0 0 1 8.60656,-30.255932"
+         transform="rotate(152.66389)" />
+    </g>
+    <ellipse
+       style="opacity:0.8479996;fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path2123"
+       cx="114.33116"
+       cy="265.66751"
+       rx="1.0909956"
+       ry="9.8189592" />
+  </g>
+</svg>
