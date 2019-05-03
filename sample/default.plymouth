@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Dandelion Tea
+Description=TeaLinuxOS XI Steavia
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/steavia-tea
+ScriptFile=/usr/share/plymouth/themes/steavia-tea/steavia-tea.script
