@@ -36,4 +36,4 @@ sudo cp default.plymouth /etc/alternatives/
 
 kemudian tinggal kita restart PC kita
 
-#SELESAI
+## SELESAI
