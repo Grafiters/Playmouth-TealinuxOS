@@ -26,7 +26,7 @@ core_d = 15;
 n_frame = 375;
 
 for(i=1; i<=n_frame; i++ ){
-	images[i]=Image("steavia-plymouth-"+i+".png");
+	images[i]=Image("stevia-plymouth-"+i+".png");
 }
 
 sprites=Sprite();
