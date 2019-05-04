@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Stevia Tea
+Description=TeaLinuxOS XI Stevia
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/stevia-tea
+ScriptFile=/usr/share/plymouth/themes/stevia-tea/stevia-tea.script
