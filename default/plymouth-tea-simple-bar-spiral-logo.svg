@@ -15,7 +15,7 @@
    viewBox="0 0 210 210"
    version="1.1"
    id="svg337"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="plymouth-tea-simple-bar-spiral-logo.svg">
   <defs
      id="defs331" />
@@ -26,14 +26,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="915.40398"
-     inkscape:cy="540.63618"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-201.19507"
+     inkscape:cy="457.54637"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1038"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -135,8 +135,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:BeyondControl;-inkscape-font-specification:BeyondControl;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.03742445"
            x="-1046.3704"
            y="454.50528"
-           id="text896"
-           sodipodi:linespacing="0%"><tspan
+           id="text896"><tspan
              sodipodi:role="line"
              id="tspan894"
              x="-1046.3704"
@@ -151,8 +150,7 @@
              x="-1100.9453"
              y="448.18655"
              id="text888"
-             transform="translate(37.5,-22.228214)"
-             sodipodi:linespacing="0%"><tspan
+             transform="translate(37.5,-22.228214)"><tspan
                sodipodi:role="line"
                id="tspan886"
                x="-1100.9453"
