@@ -18,7 +18,30 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="plymouth-tea-simple-bar-spiral-logo.svg">
   <defs
-     id="defs331" />
+     id="defs331">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient844">
+      <stop
+         style="stop-color:#1aed9e;stop-opacity:1"
+         offset="0"
+         id="stop840" />
+      <stop
+         style="stop-color:#1e252d;stop-opacity:1"
+         offset="1"
+         id="stop842" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient844"
+       id="linearGradient846"
+       x1="262.29102"
+       y1="258.42419"
+       x2="267.26953"
+       y2="867.8877"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-209.59309,-318.58528)" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
@@ -26,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="617.65149"
-     inkscape:cy="-375.81648"
+     inkscape:zoom="0.175"
+     inkscape:cx="-355.25615"
+     inkscape:cy="331.21842"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +59,8 @@
      inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata334">
     <rdf:RDF>
@@ -55,17 +79,17 @@
      id="layer1"
      transform="translate(0,-87)">
     <rect
-       style="fill:#39c892;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.49980325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient846);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.49980325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3401"
        width="541.36688"
        height="304.3002"
-       x="-33.531548"
-       y="236.62592"
+       x="-243.12463"
+       y="-81.959366"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="g1355"
-       transform="matrix(0.28222223,0,0,0.28222223,486.14163,7.28581)">
+       transform="matrix(0.28222223,0,0,0.28222223,294.79414,-50.159321)">
       <g
          transform="matrix(0.78258467,0,0,0.78258467,-175.85382,63.822741)"
          id="g884">
@@ -108,7 +132,7 @@
           <path
              inkscape:connector-curvature="0"
              id="path66"
-             d="m -6740.5653,2773.4142 c -1.0399,2.5626 0.3131,2.3818 0.7922,3.4942 0.8686,-1.7885 -0.1483,-2.0645 -0.7922,-3.4942 z m 4.5133,1.1866 c -0.9626,1.5279 -2.8214,1.2709 -3.2478,2.9881 -0.1102,0.4438 -0.1218,1.0186 0,1.7915 l 0,1.7521 c -0.8201,-2.5691 -3.4792,-2.2915 -5.7032,-4.7172 0.9318,7.5776 3.3797,4.7469 5.7032,8.2245 l 0,1.407 0.2597,0 0,-6.571 c 1.1718,-1.1776 3.5972,-1.1514 2.9881,-4.875 z"
+             d="m -6740.5653,2773.4142 c -1.0399,2.5626 0.3131,2.3818 0.7922,3.4942 0.8686,-1.7885 -0.1483,-2.0645 -0.7922,-3.4942 z m 4.5133,1.1866 c -0.9626,1.5279 -2.8214,1.2709 -3.2478,2.9881 -0.1102,0.4438 -0.1218,1.0186 0,1.7915 v 1.7521 c -0.8201,-2.5691 -3.4792,-2.2915 -5.7032,-4.7172 0.9318,7.5776 3.3797,4.7469 5.7032,8.2245 v 1.407 h 0.2597 v -6.571 c 1.1718,-1.1776 3.5972,-1.1514 2.9881,-4.875 z"
              style="fill:#ffffff;fill-opacity:1;stroke:none" />
         </g>
       </g>
@@ -142,7 +166,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.43111801px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.03742445">nikmatnya sebuah racikan</tspan></text>
         <g
            id="g1070"
-           transform="translate(-10.047459,0)">
+           transform="translate(-10.047459)">
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#62aa41;fill-opacity:1;stroke:none;stroke-width:2.5601902"
@@ -168,7 +192,7 @@
                id="path1038"
                transform="matrix(-0.888328,-0.4592095,-0.4592095,0.888328,0,0)" />
             <path
-               transform="matrix(-0.888328,0.4592095,-0.4592095,-0.888328,0,0)"
+               transform="rotate(152.66389)"
                d="m 783.75565,-354.71609 a 58.715118,58.715118 0 0 1 -46.86017,57.50587 58.715118,58.715118 0 0 1 -65.78289,-34.28428 58.715118,58.715118 0 0 1 20.29621,-71.3503"
                sodipodi:open="true"
                sodipodi:end="4.1024773"
