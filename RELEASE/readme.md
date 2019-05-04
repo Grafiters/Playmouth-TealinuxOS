@@ -15,14 +15,9 @@ kemudian buat folder baru dengan nama `stevia-tea` pada:
 sudo mkdir /usr/share/plymouth/themes/stevia-tea
 ```
 
-setelah itu copy file gambar yang berada pada folder `stevia-tea-rendered`
+setelah itu copy file gambar yang berada pada folder `stevia-tea`
 ```
-sudo copy -pr /stevia-tea-rendered/* /usr/share/plymouth/stevia-tea
-```
-
-kemudian copy script pada folder `script/`
-```
-sudo copy -pr /script/* /usr/share/plymouth/stevia-tea
+sudo copy -pr /stevia-tea/* /usr/share/plymouth/stevia-tea
 ```
 
 setelah itu kita copy file `default.plymouth` ke dalam `/etc/alternatives' (namun kita backupterlebih dahulu file default.plymouth yang asli menjadi default.plymouth.bak)
