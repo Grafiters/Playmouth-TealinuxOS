@@ -1,6 +1,6 @@
 
-Window.SetBackgroundTopColor(0.149019608, 0.184313725, 0.211764706);
-Window.SetBackgroundBottomColor(0.149019608, 0.184313725, 0.211764706);
+Window.SetBackgroundTopColor(0.05098039215, 0.10196078431, 0.16470588235);
+Window.SetBackgroundBottomColor(0.05098039215, 0.10196078431, 0.16470588235);
 
 #Window.SetBackgroundTopColor(0, 0, 0);
 #Window.SetBackgroundBottomColor(0, 0, 0);
