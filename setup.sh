@@ -11,15 +11,14 @@ echo ""
 echo "|--------------------------"
 echo "| creating new plymouth...|"
 echo "|--------------------------"
-sudo mkdir /usr/share/plymouth/themes/steavia-tea
+sudo mkdir /usr/share/plymouth/themes/stevia-tea
 echo "selesai"
 
 echo ""
 echo "|--------------------------"
 echo "| copying asset...        |"
 echo "|--------------------------"
-sudo cp steavia-tea-rendered/* /usr/share/plymouth/themes/steavia-tea/
-sudo cp script/* /usr/share/plymouth/themes/steavia-tea/
+sudo cp RELEASE/stevia-tea/* /usr/share/plymouth/themes/stevia-tea/
 echo "selesai"
 
 echo ""
@@ -33,7 +32,7 @@ echo ""
 echo "|--------------------------"
 echo "| Installing New Config   |"
 echo "|--------------------------"
-sudo cp default.plymouth /etc/alternatives/default.plymouth
+sudo cp RELEASE/default.plymouth /etc/alternatives/default.plymouth
 echo "selesai"
 
 echo ""
@@ -42,5 +41,4 @@ echo "| All Done, to test the plymouth |"
 echo "| try to reboot~ thanks          |"
 echo "|---------------------------------"
 
-exit
 exit
