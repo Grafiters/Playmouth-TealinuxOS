@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="111.52406mm"
-   height="48.72578mm"
-   viewBox="0 0 111.52406 48.72578"
+   width="508mm"
+   height="285.75mm"
+   viewBox="0 0 507.99999 285.75"
    version="1.1"
    id="svg337"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -49,8 +49,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1265.2089"
-     inkscape:cy="591.26113"
+     inkscape:cx="1667.1405"
+     inkscape:cy="610.75584"
      inkscape:document-units="mm"
      inkscape:current-layer="g831"
      showgrid="false"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,7 +76,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-195.91728,-84.344)">
+     transform="translate(2.3206935,34.16811)">
     <g
        id="g831">
       <rect
@@ -89,27 +89,26 @@
          rx="1.2623166"
          ry="2.6096592" />
       <g
-         id="g913"
-         transform="translate(161.23461,-41.19998)">
+         id="g41">
         <path
            inkscape:connector-curvature="0"
            id="path1758"
-           d="m 90.301869,125.54398 c -1.725362,4.25178 0.519488,3.9518 1.314395,5.79746 1.441149,-2.96742 -0.246058,-3.42535 -1.314395,-5.79746 z m 7.488301,1.96877 c -1.597103,2.53503 -4.681161,2.10863 -5.388628,4.95774 -0.182836,0.73635 -0.202086,1.69002 0,2.97239 v 2.90703 c -1.360678,-4.26257 -5.772561,-3.80197 -9.462539,-7.82661 1.546005,12.57248 5.607475,7.87589 9.462539,13.64579 v 2.33445 h 0.430886 v -10.90237 c 1.944209,-1.95383 5.968336,-1.91036 4.957742,-8.08842 z"
+           d="m 251.53648,84.344 c -1.72536,4.25178 0.51949,3.9518 1.31439,5.79746 1.44115,-2.96742 -0.24605,-3.42535 -1.31439,-5.79746 z m 7.4883,1.96877 c -1.5971,2.53503 -4.68116,2.10863 -5.38863,4.95774 -0.18283,0.73635 -0.20208,1.69002 0,2.97239 v 2.90703 c -1.36068,-4.26257 -5.77256,-3.80197 -9.46254,-7.82661 1.54601,12.57248 5.60748,7.87589 9.46254,13.64579 v 2.33445 h 0.43089 V 94.40119 c 1.94421,-1.95383 5.96833,-1.91036 4.95774,-8.08842 z"
            style="fill:#62aa41;fill-opacity:1;stroke:none;stroke-width:3.12274814" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.58837509px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29278424"
-           x="34.344006"
-           y="173.34689"
+           x="195.57861"
+           y="134.36752"
            id="text1770"><tspan
              sodipodi:role="line"
              id="tspan1768"
-             x="34.344006"
-             y="173.34689"
+             x="195.57861"
+             y="134.36752"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.64583325px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.29278424">Nikmatnya Sebuah Racikan</tspan></text>
         <g
            style="stroke-width:1.15493739"
-           transform="matrix(0.86584784,0,0,0.86584784,12.133353,22.449293)"
+           transform="matrix(0.86584784,0,0,0.86584784,173.36796,-18.750687)"
            id="g879">
           <text
              id="text1776"
