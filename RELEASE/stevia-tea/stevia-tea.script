@@ -35,7 +35,7 @@ for(i=1; i<=n_frame; i++ ){
 	}else{
 		imgIdx = i;
 	}
-	images[i]=Image("stevia-plymouth."+i+".png");
+	images[i]=Image("stevia-plymouth."+imgIdx+".png");
 }
 
 sprites=Sprite();
