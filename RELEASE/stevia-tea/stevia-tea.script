@@ -23,10 +23,19 @@ core_x = 250;
 core_y = Window.GetHeight() - stem.image.GetHeight() + 15;
 core_d = 15;
 
-n_frame = 250;
+n_frame = 120;
 
 for(i=1; i<=n_frame; i++ ){
-	images[i]=Image("stevia-plymouth-"+i+".png");
+	if(i < 10){
+		imgIdx = "000"+i;
+	}else if(i < 100){
+		imgIdx = "00"+i;
+	}else if(i < 1000){
+		imgIdx = "0"+i;
+	}else{
+		imgIdx = i;
+	}
+	images[i]=Image("stevia-plymouth."+imgIdx+".png");
 }
 
 sprites=Sprite();
